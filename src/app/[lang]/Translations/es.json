@@ -1,0 +1,104 @@
+{
+  "principal_banner": {
+    "title": "Viajes a medida para descubrir el vibrante Perú",
+    "description": "Explora el mundo a través de experiencias culturales únicas, con comunidades locales y guías expertos, potenciadas por la tecnología.",
+    "boton": "   Destinos   "
+  },
+  "top_destinations": {
+    "title": "Mejores Destinos"
+  },
+  "departments": {
+    "title": "Obten la mejor experiencia de viaje",
+    "descriptions": [
+      {
+        "title": "Estancias Inolvidables",
+        "description": "Hoteles que inspiran por su estilo, ubicación y experiencia. Elegidos pensando en tu comodidad, tus planes y tu forma de viajar."
+      },
+      {
+        "title": "Costos amigables",
+        "description": "Precios pensados para que viajes sin preocupaciones. Accesible, cómodo y con todo lo que necesitas."
+      }
+    ],
+    "boton": "Destinos"
+  },
+  "app_information": {
+    "title": "Obtén un 5% de descuento en tu primera reserva con nuestra app",
+    "description": "No sólo trabajamos con hormigón y acero. Trabajamos con personasSomos accesibles, incluso con nuestros trabajos de mayor envergadura con hormigón y acero. Trabajamos con personas",
+    "advantages": [
+      "Tecnología de generación",
+      "Rendimiento de audio",
+      "Tecnología de generación",
+      "Rendimiento de audio"
+    ]
+  },
+  "travel_carousel": {
+    "title": "Elija su fecha favorita para explorar",
+    "description": "No sólo trabajamos con hormigón y acero. Trabajamos con personasSomos accesibles, incluso con nuestros trabajos de mayor envergadura con hormigón y acero. Trabajamos con personas",
+    "text_carousel": "Galería de fotos de famosos",
+    "subtext_carousel": "Las mejores fotos de nuestros viajes"
+  },
+  "agency_information": {
+    "title": "Lugar de viaje para usted y su familia",
+    "text_users": "500K+ clientes satisfechos",
+    "sub_title": "¿A la espera de aventuras? No te las pierdas",
+    "sub_text": "No sólo trabajamos con hormigón y acero. Trabajamos con personasSomos accesibles, incluso con nuestros trabajos de mayor envergadura con hormigón y acero. Trabajamos con personas",
+    "text_aproved": "Tenemos más de 10 años de experiencia",
+    "advantages": [
+      "Tecnología de generación",
+      "Rendimiento de audio",
+      "Tecnología de generación"
+    ]
+  },
+  "agency_about": {
+    "title": "Conoce más sobre nosotros",
+    "abouts": [
+      {
+        "title": "Personalizado",
+        "description": "Ofrecemos una variedad de paquetes turísticos personalizados para adaptarse a sus necesidades y presupuesto. Desde paquetes básicos que incluyen solo el transporte y la entrada a Machu Picchu, hasta paquetes de lujo que incluyen alojamiento de alta calidad y guías turísticos privados."
+      },
+      {
+        "title": "Agil",
+        "description": "Nuestros paquetes también incluyen la posibilidad de hacer senderismo por el Camino Inca, disfrutar de la vida local en lus pueblos cercanos, visitar parqies arqueológicos cercanos, y disfrutar de una variedad de actividades al aire libre en la hermosa región de los Andes"
+      },
+      {
+        "title": "Centrado en el cliente",
+        "description": "Un servicio comprometido con el cliente, está dispuesto a escuchar activamente a los usuarios y comprender sus necesidades y deseos para poder ofrecer un servicio personalizado."
+      },
+      {
+        "title":"Flexibilidad",
+        "description": "Un servicio comprometido implica ser flexible y estar dispuesto a adaptarse a las necesidades y solicitudes específicas del cliente, incluso si requiere hacer cambios en el último momento."
+      }
+    ]
+  },
+  "companies_carouse": {
+    "title": "La confianza de las empresas locales"
+  },
+  "comments_carousel": {
+    "title": "Lo que la gente dice de nosotros",
+    "description": "No sólo trabajamos con hormigón y acero. Trabajamos con personasSomos accesibles, incluso con nuestros trabajos de mayor envergadura con hormigón y acero. Trabajamos con personas",
+    "boton": "Dinos que opinas!!!",
+    "testimonials": [
+      {
+        "name": "Wastson Karm",
+        "company": "Fementum Odio Co.",
+        "text": "No sólo trabajamos con hormigón y acero. Somos accesibles, incluso con nuestro hormigón y acero más altos. Trabajamos con personas de hormigón",
+        "image": "/1.png",
+        "rating": 5
+      },
+      {
+        "name": "Hamza Khan",
+        "company": "Fementum Odio Co.",
+        "text": "No sólo trabajamos con hormigón y acero. Somos accesibles, incluso con nuestro hormigón y acero más altos. Trabajamos con personas de hormigón",
+        "image": "/2.png",
+        "rating": 4
+      },
+      {
+        "name": "John Doe",
+        "company": "Fementum Odio Co.",
+        "text": "No sólo trabajamos con hormigón y acero. Somos accesibles, incluso con nuestro hormigón y acero más altos. Trabajamos con personas de hormigón",
+        "image": "/3.png",
+        "rating": 5
+      }
+    ]
+  }
+}

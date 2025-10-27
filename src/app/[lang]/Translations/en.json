@@ -1,0 +1,104 @@
+{
+  "principal_banner": {
+    "title": "Tailor-made trips to discover vibrant Peru",
+    "description": "Explore the world through unique cultural experiences, with local communities and expert guides, enhanced by technology.",
+    "boton": "  Destinations  "
+  },
+  "top_destinations": {
+    "title": "Top Destinations"
+  },
+  "departments": {
+    "title": "Get the best travel experience",
+    "descriptions": [
+      {
+        "title": "Unforgettable Stays",
+        "description": "Hotels that inspire with their style, location, and experience. Chosen with your comfort, plans, and travel style in mind."
+      },
+      {
+        "title": "Budget-Friendly",
+        "description": "Prices designed so you can travel worry-free. Affordable, comfortable, and with everything you need."
+      }
+    ],
+    "boton": "Destinations"
+  },
+  "app_information": {
+    "title": "Get a 5% discount on your first booking with our app",
+    "description": "We don’t just work with concrete and steel. We work with people. We are accessible, even in our largest-scale projects with concrete and steel. We work with people.",
+    "advantages": [
+      "Generation technology",
+      "Audio performance",
+      "Generation technology",
+      "Audio performance"
+    ]
+  },
+  "travel_carousel": {
+    "title": "Choose your favorite date to explore",
+    "description": "We don’t just work with concrete and steel. We work with people. We are accessible, even in our largest-scale projects with concrete and steel. We work with people.",
+    "text_carousel": "Famous photo gallery",
+    "subtext_carousel": "The best photos from our trips"
+  },
+  "agency_information": {
+    "title": "Travel destinations for you and your family",
+    "text_users": "500K+ satisfied customers",
+    "sub_title": "Waiting for adventures? Don’t miss out!",
+    "sub_text": "We don’t just work with concrete and steel. We work with people. We are accessible, even in our largest-scale projects with concrete and steel. We work with people.",
+    "text_aproved": "We have more than 10 years of experience",
+    "advantages": [
+      "Generation technology",
+      "Audio performance",
+      "Generation technology"
+    ]
+  },
+  "agency_about": {
+    "title": "Learn more about us",
+    "abouts": [
+      {
+        "title": "Personalized",
+        "description": "We offer a variety of customized tour packages to suit your needs and budget. From basic packages that include only transportation and entry to Machu Picchu, to luxury packages with high-quality accommodations and private tour guides."
+      },
+      {
+        "title": "Efficient",
+        "description": "Our packages also include the possibility of hiking the Inca Trail, experiencing local life in nearby villages, visiting nearby archaeological parks, and enjoying a variety of outdoor activities in the beautiful Andean region."
+      },
+      {
+        "title": "Customer-Centered",
+        "description": "A service committed to the customer is willing to actively listen to users and understand their needs and desires to offer a personalized service."
+      },
+      {
+        "title": "Flexibility",
+        "description": "A committed service means being flexible and willing to adapt to the specific needs and requests of the customer, even if it requires last-minute changes."
+      }
+    ]
+  },
+  "companies_carouse": {
+    "title": "Trusted by local businesses"
+  },
+  "comments_carousel": {
+    "title": "What people say about us",
+    "description": "We don’t just work with concrete and steel. We work with people. We are accessible, even in our largest-scale projects with concrete and steel. We work with people.",
+    "boton": "Tell us what you think!",
+    "testimonials": [
+      {
+        "name": "Wastson Karm",
+        "company": "Fementum Odio Co.",
+        "text": "We don’t just work with concrete and steel. We are accessible, even with our tallest concrete and steel structures. We work with people of concrete.",
+        "image": "/1.png",
+        "rating": 5
+      },
+      {
+        "name": "Hamza Khan",
+        "company": "Fementum Odio Co.",
+        "text": "We don’t just work with concrete and steel. We are accessible, even with our tallest concrete and steel structures. We work with people of concrete.",
+        "image": "/2.png",
+        "rating": 4
+      },
+      {
+        "name": "John Doe",
+        "company": "Fementum Odio Co.",
+        "text": "We don’t just work with concrete and steel. We are accessible, even with our tallest concrete and steel structures. We work with people of concrete.",
+        "image": "/3.png",
+        "rating": 5
+      }
+    ]
+  }
+}

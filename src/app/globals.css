@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Configuración global de la barra de scroll */
+::-webkit-scrollbar {
+  width: 12px; /* Grosor de la barra */
+  height: 8px;
+}
+
+/* Estilos del pulgar (la parte que se mueve) */
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(to right, #049353, #06d77a);
+  border-radius: 6px;
+  transition: background 0.3s ease-in-out;
+}
+
+/* Efecto al pasar el cursor por el pulgar */
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(to right, #038144, #05c56c);
+}
+
+/* Efecto cuando se está desplazando activamente */
+::-webkit-scrollbar-thumb:active {
+  background: linear-gradient(to right, #026b37, #04a857);
+}
+
+/* Track (fondo de la barra) transparente */
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Para que la barra no ocupe espacio */
+html {
+  overflow-y: overlay; /* Hace que la barra no empuje el contenido */
+}
